@@ -1,6 +1,6 @@
-# annepro2-pt-br
+# Layout do Teclado Anne Pro 2 PT-BR
 
-Customizações do layout do [teclado Anne Pro 2](https://www.annepro.net/) mais confortável para o português (PT-BR). O layout do Anne Pro 2 é baseado no US e a adaptação na minha opinião acaba ficando difícil para brasileiros. Este layout busca ajustar algumas combinações para agilizar o acesso a caracteres acentuados e símbolos úteis.
+Customizações do layout do [teclado Anne Pro 2](https://www.annepro.net/) mais confortável para o português Brasil (PT-BR). O layout do Anne Pro 2 é baseado no US e a adaptação na minha opinião acaba ficando difícil para brasileiros. Este layout busca ajustar algumas combinações para agilizar o acesso a caracteres acentuados e símbolos úteis.
 
 O layout está disponível para Windows e Linux. Consulte o README.md de cada sistema para detalhes de instalação.
 
