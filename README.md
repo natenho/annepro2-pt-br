@@ -43,6 +43,7 @@ _Sobre a combinação `AltGr + p`: Acredite, você vai errar muito a letra O_
 | `AltGr + 1`  |     ¹     |
 | `AltGr + 2`  |     ²     |
 | `AltGr + 3`  |     ³     |
+| `AltGr + 6`  |     ¬     |
 | `AltGr + =`  |     §     |
 
 
