@@ -11,7 +11,7 @@ O layout está disponível para Windows e Linux. Consulte o README.md de cada si
 ![image](https://user-images.githubusercontent.com/4236481/161198108-0836711b-2ab5-41aa-8ebb-103f00fea739.png)
 
 - Acento agudo e grave são teclas que aguardam um caracter para acentuar
-- Acento circumflexo acessível tanto pelo padrão US `Shift + 6` como pelo `AltGr + Shift + ´`
+- Acento circunflexo acessível tanto pelo padrão US `Shift + 6` como pelo `AltGr + Shift + ´`
 - Aspas simples podem ser geradas pelo acento agudo
 - Aspas duplas não funcionam como dead keys (facilita a vida de programadores)
 
