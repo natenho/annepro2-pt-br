@@ -1,6 +1,13 @@
 # Como usar esse layout
 
-Baixe o instalador em 
+1. Baixe o instalador em https://github.com/natenho/annepro2-pt-br/releases
+
+2. Extraia o arquivo zip e execute o setup.exe
+
+3. O layout ficará disponível para utilização na lista de teclados:
+
+![image](https://user-images.githubusercontent.com/4236481/161451748-896a3eab-44a9-4c49-8f3d-f6be7e915f4c.png)
+
 
 # Como compilar o layout
 
