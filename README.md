@@ -10,10 +10,10 @@ O layout está disponível para Windows e Linux. Consulte o README.md de cada si
 
 ![image](https://user-images.githubusercontent.com/4236481/161198108-0836711b-2ab5-41aa-8ebb-103f00fea739.png)
 
-- Acento agudo e grave são teclas que aguardam um caracter para acentuar
-- Acento circunflexo acessível tanto pelo padrão US `Shift + 6` como pelo `AltGr + Shift + ´`
-- Aspas simples podem ser geradas pelo acento agudo
-- Aspas duplas não funcionam como dead keys (facilita a vida de programadores)
+- Acento agudo e grave são teclas que aguardam um caracter para acentuar letras como áéíóú e à
+- Acento circunflexo acessível tanto pelo padrão US `Shift + 6` como pelo `AltGr + Shift + ´`. A distância pode ser mais confortável para algumas pessoas.
+- Aspa simples (apóstrofo) pode ser gerado pela tecla de acento agudo `´ + Space`. Esse comportamento fez sentido pois dificilmente o acento agudo é usado sozinho.
+- A tecla de aspas duplas não é mais usada como dead key, anteriormente usada para gerar o sinal gráfico trema. Com o novo acordo ortográfico o trema deixou de existir em todas as palavras da língua portuguesa. Esse comportamento também facilita a vida de programadores ;-)
 
 ### Uso do AltGr (Alt Direito ou Alt+Ctrl)
 
