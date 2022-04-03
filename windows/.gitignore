@@ -1,0 +1,5 @@
+**/*.log
+**/*.dll
+**/*.msi
+**/*.exe
+anp2ptbr/**
